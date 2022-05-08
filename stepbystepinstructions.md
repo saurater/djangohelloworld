@@ -28,3 +28,8 @@ from django.shortcuts import render, HttpResponse
      from core import views
 
     path('hello/<name>/<age>', views.hello),
+      
+15. cd E:\python_dev\django\hello_django
+16. python manage.py runserver
+17. In your browser go to http://127.0.0.1:8000/hello/name/age
+      
