@@ -25,7 +25,7 @@ from django.shortcuts import render, HttpResponse
   
        return HttpResponse('Hello {}, you are {} years old >'.format(name, age))
        
-        <br><img src="https://github.com/saurater/djangohelloworld/blob/main/addfunctionstoviews.png">  
+    <br><img src="https://github.com/saurater/djangohelloworld/blob/main/addfunctionstoviews.png">  
 
 13. Edit your_app>your_app>urls.py
 14. add the line below to import views:
