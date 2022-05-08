@@ -12,6 +12,7 @@
 10.cd E:\python_dev\django\hello_django\hello_django
 11. Edit  hello_django --> settings.py
       <br>   add 'core' to installed_apps
+      <img src="https://github.com/saurater/djangohelloworld/blob/main/core.png">
 
 11. Edit your_app_name --> core --> views.py to import HttpResponse
 
