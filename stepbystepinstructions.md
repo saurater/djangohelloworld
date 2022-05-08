@@ -32,6 +32,8 @@ from django.shortcuts import render, HttpResponse
      from core import views
 
     path('hello/<name>/<age>', views.hello),
+    
+    <br><img src="">
       
 15. cd E:\python_dev\django\hello_django
 16. python manage.py runserver
