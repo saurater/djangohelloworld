@@ -15,7 +15,8 @@ add 'core' to installed_apps
 11. Edit your_app_name --> core --> views.py to import HttpResponse
 from django.shortcuts import render, HttpResponse
 
-12. Create your functions here your_app_name --> core --> views.py 
+12. Create your functions here your_app_name --> core --> views.py
+ 
   def hello(request, name, age):
     return HttpResponse('Hello {}, you are {} years old >'.format(name, age))
 
