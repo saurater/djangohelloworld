@@ -1,7 +1,7 @@
 # Step by Step Manual Instructions
 
 1. cd E:\python_dev\django 
-  (make sure the djangohelloworld.py and djangosetup.py files are in this folder - You can change its name / path)
+  <br> (make sure the djangohelloworld.py and djangosetup.py files are in this folder - You can change its name / path)
 4. python -m venv venv_django
 5. cd E:\python_dev\django\venv_django\Scripts
 6. activate
