@@ -10,7 +10,7 @@
 4. Follow the instructions on the screen
 5. See your Django app running
 
-#Testing
+# Testing
 1. Open a browser at http://127.0.0.1:8000/hello/Sam/49
 2. Replace the word Sam by any of your choice
 3. Relace the number 49 by any of your choice
