@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+"""
+Django Hello World / Setp up File
+Created on Tue May  3 08:46:40 2022
+@author: Sam Faraday
+Github: https://github.com/saurater/djangohelloworld
+"""
+
 import os, time
 
 print("\n \n - - -> 4 Installing Django - - - - - - - - - - - - - -  \n \n ")
