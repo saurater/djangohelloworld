@@ -7,7 +7,7 @@
 5. pip install django
 6. cd E:\python_dev\django
 7. django-admin startproject hello_django
-8 cd E:\python_dev\django\hello_django
+8. cd E:\python_dev\django\hello_django
 9. django-admin startapp core 
 10. hello_django --> settings.py
       <br>   add 'core' to installed_apps
