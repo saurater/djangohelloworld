@@ -1,16 +1,15 @@
 # Step by Step Manual Instructions
 
 1. cd E:\python_dev\django 
-  <br> (make sure the djangohelloworld.py and djangosetup.py files are in this folder - You can change its name / path)
-4. python -m venv venv_django
-5. cd E:\python_dev\django\venv_django\Scripts
-6. activate
-7. pip install django
-8. cd E:\python_dev\django
-9. django-admin startproject hello_django
-10. cd E:\python_dev\django\hello_django
-11. django-admin startapp core 
-12. hello_django --> settings.py
+2. python -m venv venv_django
+3. cd E:\python_dev\django\venv_django\Scripts
+4. activate
+5. pip install django
+6. cd E:\python_dev\django
+7. django-admin startproject hello_django
+8. cd E:\python_dev\django\hello_django
+9. django-admin startapp core 
+10. hello_django --> settings.py
       <br>   add 'core' to installed_apps
 
 11. Edit your_app_name --> core --> views.py to import HttpResponse
