@@ -33,7 +33,7 @@ from django.shortcuts import render, HttpResponse
 
     path('hello/<name>/<age>', views.hello),
     
-    <br><img src="">
+    <br><img src=<"https://github.com/saurater/djangohelloworld/blob/main/addtourls.png">
       
 15. cd E:\python_dev\django\hello_django
 16. python manage.py runserver
