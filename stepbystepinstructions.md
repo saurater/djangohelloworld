@@ -10,8 +10,7 @@
 8 cd E:\python_dev\django\hello_django
 9. django-admin startapp core 
 10. hello_django --> settings.py
-    
-      add 'core' to installed_apps
+      <br>add 'core' to installed_apps
 
 11. Edit your_app_name --> core --> views.py to import HttpResponse
 
